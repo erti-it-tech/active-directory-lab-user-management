@@ -118,7 +118,7 @@ Ces scripts ne sont pas destinés à la production mais à l’apprentissage.
 
 ## 📂 Structure du dépôt
 
-```text
+```
 active-directory-lab-user-management/
 │
 ├── README.md
@@ -135,3 +135,4 @@ active-directory-lab-user-management/
     ├── ad-users-and-computers.png
     ├── join-domain.png
     └── login-domain-user.png
+```
