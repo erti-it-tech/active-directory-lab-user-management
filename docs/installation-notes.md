@@ -1,4 +1,3 @@
-```markdown
 # Installation du contrôleur de domaine – SRV-DC01
 
 Ce document décrit les étapes suivies pour installer et configurer le contrôleur de domaine `SRV-DC01` pour le domaine `lab.local`.
